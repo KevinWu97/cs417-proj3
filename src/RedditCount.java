@@ -15,7 +15,7 @@ import java.io.IOException;
 
 public class RedditCount {
 
-    public static class RedditMapper extends Mapper<LongWritable, Text, LongWritable, IntWritable> {
+    public static class RedditMapper extends Mapper<Object, Text, LongWritable, IntWritable> {
 
         private RedditParser redditParser = new RedditParser();
 
@@ -85,13 +85,15 @@ public class RedditCount {
         }
 
         Configuration configuration = new Configuration();
-        Job job = Job.getInstance(configuration);
-        // Job job = new Job(configuration, "reddit_count");
+        Job job = Job.getInstance(configuration, "reddit_count");
+
+        job.setJarByClass(RedditCount.class);
 
         job.setOutputKeyClass(LongWritable.class);
         job.setOutputValueClass(IntWritable.class);
 
         job.setMapperClass(RedditMapper.class);
+        job.setCombinerClass(RedditReducer.class);
         job.setReducerClass(RedditReducer.class);
 
         job.setInputFormatClass(TextInputFormat.class);

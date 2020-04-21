@@ -6,7 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa5d1e25-9c9f-418d-9e17-a47b99a14f77" name="Default Changelist" comment="" />
+    <list default="true" id="fa5d1e25-9c9f-418d-9e17-a47b99a14f77" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/RedditCount_jar/RedditCount.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RedditCount_jar/RedditCount.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RedditCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RedditCount.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,10 +26,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1an3fcfO0DG28YUoG7RTJEP1UqP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,10 +44,31 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="C:/JARs/Hadoop" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RedditCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RedditCount" />
+      <module name="RedditCount" />
+      <option name="PROGRAM_PARAMETERS" value="D:\\CS417Data\\reddit-data-large.txt D:\\CS417Data\\reddit-count-output.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RedditCount" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -51,7 +80,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587357635363</updated>
-      <workItem from="1587357638716" duration="16051000" />
+      <workItem from="1587357638716" duration="16668000" />
+      <workItem from="1587427255322" duration="3584000" />
     </task>
     <servers />
   </component>
@@ -59,10 +89,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="447" y="107" width="1089" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587418570820">
+    <state x="447" y="107" width="1089" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587428339635">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="447" y="107" width="1089" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587418570820" />
+    <state x="447" y="107" width="1089" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587428339635" />
     <state x="502" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587418010834">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -79,22 +109,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="473" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587361259293" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1587418308675">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1587430001286">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587418308675" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1587418308675">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587430001286" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1587430001285">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587418308675" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1587418308675">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587430001285" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1587430001285">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587418308675" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1587418308675">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587430001285" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1587430001285">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587418308675" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587430001285" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1587418308676">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -115,9 +145,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587418619872" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1587357642656">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1587427255953">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587357642656" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587427255953" />
   </component>
 </project>
