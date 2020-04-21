@@ -8,8 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fa5d1e25-9c9f-418d-9e17-a47b99a14f77" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/RedditCount_jar/RedditCount.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RedditCount_jar/RedditCount.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RedditCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RedditCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/RedditCount_jar/RedditCount.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/JARs/Hadoop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/RedditCountJars" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,6 +53,16 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kevin Wu\IdeaProjects\RedditCount\src" />
+      <recent name="C:\Users\Kevin Wu\IdeaProjects\RedditCount\src\RedditCountJars" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kevin Wu\IdeaProjects\RedditCount\src\RedditCountJars" />
+      <recent name="C:\Users\Kevin Wu\IdeaProjects\RedditCount\out\artifacts\RedditCount_jar" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="RedditCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -81,7 +90,8 @@
       <option name="presentableId" value="Default" />
       <updated>1587357635363</updated>
       <workItem from="1587357638716" duration="16668000" />
-      <workItem from="1587427255322" duration="3584000" />
+      <workItem from="1587427255322" duration="4330000" />
+      <workItem from="1587434170485" duration="1596000" />
     </task>
     <servers />
   </component>
@@ -97,10 +107,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="502" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1587418010834" />
-    <state x="499" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587418604256">
+    <state x="499" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587434442600">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1587418604256" />
+    <state x="499" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1587434442600" />
     <state x="499" y="167" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1587360876950">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -141,13 +151,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587418308676" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1587418619872">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1587434724846">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587418619872" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1587427255953">
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587434724846" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1587434173150">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587427255953" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587434173150" />
   </component>
 </project>
